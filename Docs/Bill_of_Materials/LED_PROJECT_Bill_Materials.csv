@@ -1,0 +1,9 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"SSW-104-02-T-D","SQ Post Socket, Through-hole, Vertical, -55 to 105 degC, 2.54mm Pitch, 8-Pin, Female, RoHS","ATTiny","SMTC-SSW-104-02-X-D","CMP-1023-00342-1","1"
+"147694-1","FSM8JRT=SWITCH,PUSHBUTTON,TACT","Button","TE_FSM8JRT","FSM8JRT","1"
+"81R0LFJ0511WPN081T","Aluminum Electrolytic Capacitor, 1 uF +/- 5%, 50 V, -40 to 105 degC, 2 Pin THD, Dia 5 mm, Body Length 11 mm, Tape and Reel","ByCap","FHTE-8-0511-2_M","CMP-0909-00001-1","1"
+"151053RS03000","THT LED round mono-color waterclear,  WL-TMRW ,Red","LED","Type 5mm","CMP-1489-00007-1","1"
+"FMP300FRF73-82K","Metal Film Resistor, 82 KOhm +/-1%, 3 W, -55 to 155 degC, 2-Pin THD, RoHS, Tape and Reel","LEDR","YAGO-FMP300-2_V2","CMP-1257-00001-1","1"
+"PHF-102-01-L-S-002","Press Fit Socket, Through-hole, Vertical, -55 to 125 degC, 2.54 mm Pitch, 2-Pin, Female, RoHS","Power","SMTC-PHF-102-01-X-S-002","CMP-1023-00103-1","1"
+"L7805ACV","Positive Voltage Regulator, 5V, 3-Pin TO-220","PowerReg","TO220","CMP-0244-00484-1","1"
