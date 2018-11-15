@@ -71,13 +71,56 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMNABUGQ
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for LED_PROJECT_Header\LED_PROJECT_Header.csv
+[Document3]
+DocumentPath=..\..\..\Users\culbe.DESKTOP-F878C71\Downloads\ATTINY85-20PU\Imported ATTINY85-20PU.lia\ATTINY85-20PU.LibPkg
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for LED_PROJECT_Header\LED_PROJECT_Header.pdf
+[Document4]
+DocumentPath=..\..\..\Users\culbe.DESKTOP-F878C71\Downloads\ATTINY85-20PU\Imported ATTINY85-20PU.lia\ATTINY85-20PU.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=..\..\..\Users\culbe.DESKTOP-F878C71\Downloads\ATTINY85-20PU\Imported ATTINY85-20PU.lia\ATTINY85-20PU.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YXCTHACW
 
 [Configuration1]
 Name=Sources
