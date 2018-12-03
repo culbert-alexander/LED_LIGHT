@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RCNPVOYP
 
 [Document2]
-DocumentPath=CulbertAlexander_culbert-alexander\LED_PROJECT.SchDoc
+DocumentPath=LED_PROJECT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
